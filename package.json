@@ -1,6 +1,6 @@
 {
   "name": "react-native-apple-storekit-external-link",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React Native library that leverages Apple's StoreKit to present external link modals for account management or purchases outside the app.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
